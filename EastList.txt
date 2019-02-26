@@ -1,9 +1,9 @@
-!
-!  Optimized for AdBlock iOS App
-!
-!  Entries: 23297
-!  Last update: Feb 26th 2019 12:37 GMT
-!
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
 !
 
 ||00bloggers.ru^
